@@ -8,8 +8,8 @@ This repository documents Big data technologies. Some tutorials, general Informa
   - ###### What is Spark
 - ##### Batch
   - ###### [Code Comparison](spark/spark_batch/SparkBatch/src/main/java/com/ankur/main/code/comparison)
-  - ###### CSV Parsing
-  - ###### JSON Parsing
+  - ###### [CSV Parsing](spark/spark_batch/SparkBatch/src/main/java/com/ankur/main/customclass/csv)
+  - ###### [JSON Parsing](spark/spark_batch/SparkBatch/src/main/java/com/ankur/main/customclass/json)
   - ###### Joins
     - Inner
     - Left Outer
