@@ -9,12 +9,16 @@ public class StringConstants {
 	public static String BIRTHDAYS_CSV_FILE="Birthdays.csv.gz";
 	public static String WORLD_BANK_JSON_FILE="world_bank.json.gz";
 	public static String ZIP_JSON_FILE="zips.json.gz";
+	public static String EMPLOYEE_INFO_JSON_FILE="employee_info.json.gz";
+	public static String EMPLOYEE_DEPARTMENT_JSON_FILE="employee_department.json.gz";
 	public static String STRING="string";
 	public static String CSV="csv";
 	public static String JSON="json";
+	public static String JOINS="joins";
 	public static String SAMPLE_DATA_STRING_FOLDER=SAMPLE_DATA_FOLDER+"/"+STRING;
 	public static String SAMPLE_DATA_CSV_FOLDER=SAMPLE_DATA_FOLDER+"/"+CSV;
 	public static String SAMPLE_DATA_JSON_FOLDER=SAMPLE_DATA_FOLDER+"/"+JSON;
+	public static String SAMPLE_DATA_JOINS_FOLDER=SAMPLE_DATA_FOLDER+"/"+JOINS;
 	
 
 }
